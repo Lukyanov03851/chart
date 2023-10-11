@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chart</string>
+    <string name="day_range_title">1 Д</string>
+    <string name="week_range_title">1 Т</string>
+    <string name="month_range_title">1 М</string>
+    <string name="year_range_title">1 Р</string>
+    <string name="all_range_title">Все</string>
+    <string name="choose_currency">Оберіть валюту</string>
+    <string name="chart_title">Курс валют (%1$s - %2$s)</string>
+</resources>
